@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo noupdate="1">
+
+    <record id="hospital_disease_allergies_data" model="hospital.disease">
+        <field name="name">Allergies</field>
+    </record>
+    <record id="hospital_disease_conjunctivitis_data" model="hospital.disease">
+        <field name="name">Conjunctivitis</field>
+    </record>
+    <record id="hospital_disease_headaches_data" model="hospital.disease">
+        <field name="name">Headaches</field>
+    </record>
+
+</odoo>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo noupdate="1">
+
+    <record id="hospital_doctor_sidorov_demo" model="hospital.doctor">
+        <field name="name">Sidorov</field>
+    </record>
+    <record id="hospital_doctor_ivanov_demo" model="hospital.doctor">
+        <field name="name">Ivanov</field>
+    </record>
+    <record id="hospital_doctor_martin_demo" model="hospital.doctor">
+        <field name="name">Martin</field>
+    </record>
+
+
+</odoo>
